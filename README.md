@@ -11,8 +11,5 @@ I'm learning python and I really like it!
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Artyr717&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Artyr717&icon=0&color=0)](https://visitcount.itsvg.in)
